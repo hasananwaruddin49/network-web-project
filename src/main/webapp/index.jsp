@@ -81,7 +81,7 @@
       <ul>
         <li>Programming: Java, Python, JavaScript</li>
         <li>Tools: Git, Maven, Docker</li>
-        <li>Soft Skills: Teamwork, Communication</li>
+        <li>Soft Skills: Teamwork is the best thing, Communication</li>
       </ul>
     </div>
   </div>
